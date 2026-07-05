@@ -1,5 +1,7 @@
 # 🚨 Customer Churn Prediction Dashboard
 
+[![View Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-orange?logo=Jupyter)](https://nbviewer.org/github/himangana/customer_churn_dashboard/blob/main/Churn_Project.ipynb)
+
 This is my first data science and web application project! It analyzes customer data, identifies customers who are at high risk of leaving (churning), and displays them on an interactive dashboard.
 
 ## 📊 Project Overview
